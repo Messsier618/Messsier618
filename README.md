@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Messsier618
-- 👀 I’m interested in codinh
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me krishna.1801007@gmail.com
